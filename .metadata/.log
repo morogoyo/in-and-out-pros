@@ -1,0 +1,21 @@
+!SESSION 2015-10-11 19:34:34.077 -----------------------------------------------
+eclipse.buildId=3.6.1.201410201044
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2015-10-11 19:35:12.738
+!MESSAGE No repository found at https://github.com/angelozerr/angularjs-eclipse/tree/master/angularjs-eclipse-feature.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2015-10-11 19:35:14.079
+!MESSAGE No repository found at https://github.com/angelozerr/angularjs-eclipse.
+
+!ENTRY org.eclipse.ui 2 2 2015-10-11 19:37:43.161
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.jst.jsp.ui, propertyPage: org.eclipse.jst.jsp.ui.propertyPage.project.validation)
+
+!ENTRY org.eclipse.ui 2 2 2015-10-11 19:37:43.161
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.html.ui, propertyPage: org.eclipse.wst.html.ui.propertyPage.project.validation)
+
+!ENTRY org.eclipse.ui 2 2 2015-10-11 19:37:43.161
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
